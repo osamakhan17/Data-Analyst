@@ -1,9 +1,9 @@
 # Walmart Project
 
 
-I have developed a Python project using Jupyter Notebook to predict sales and demand for Walmart stores. By analyzing historical sales data from 45 stores, I implemented statistical modeling techniques and machine learning algorithms to improve sales forecasting accuracy.
+I have developed a Python project using Jupyter Notebook to predict sales and demand for Walmart stores. By analyzing historical sales data from 45 stores, I implemented statistical modeling techniques and machine learning algorithms to improve sales forecasting accuracy.  <br>
 
-Key Project Highlights: 
+Key Project Highlights:  <br>
 
 1 - Analyzed sales data from 2010 to 2012, considering factors like store number, date, weekly sales, holidays, temperature, fuel price,       CPI, and unemployment rate.
 2 - Identified the store with the highest sales and the store with the most variability in sales.
